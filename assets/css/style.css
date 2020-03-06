@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logotext {
+        padding: 50px 0 50px 50px;
+        color: white;
+    
+}
+
+
+.header {
+        background-color: #445162;
+        height: 325px;
+        width: 1280px;
+
+}
+
+
+ul{
+    list-style: none;
+}
+ul > li{
+    padding-left: 20px;
+    position: relative;
+    margin: 10px;
+    font-family: Arial;
+	font-size: 20px;
+}
+
+ul > li:before{
+    content: '✔';
+    position: absolute; top: 0; left: 0;
+    color: white;
+}
+
+.logotext img {
+	float: right;
+	padding: 0 50px 50px 50px;
+}
+
+.logotext h1 {
+	font-family: Arial, sans-serif;
+	font-size: 50px;
+    margin-bottom: 50px;
+ }
+
+ .about {
+    background-color: #ffffff;
+        height: 325px;
+        width: 1280px;
+ }
+
+ .logotext1 img {
+    float: right;
+    padding: 0 50px 50px 50px;
+}
+
+
+.logotext1 h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin: 50px 0 0 50px;
+    color: #445161;
+ }
+
+ .about p {
+    margin: 30px 100px 0 50px;
+    font-family: Arial;
+    font-size: 16px;
+ }
+
+ .digniti {
+     background-color: #f5f5f5;
+        height: 420px;
+        width: 1280px; 
+ }
+
+.digniti h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: #445161;
+}
+
+ .digniti img {
+    width: 36px;
+    height: 36px;
+    margin: 0 0 40px 10px;
+ }
+
+ .plus {
+    margin: 30px 50px 50px 50px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #333333;
+ }
+
+ 
