@@ -1,0 +1,255 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logotext {
+        padding: 50px 0 50px 50px;
+        color: white;
+    
+}
+
+
+.header {
+        background-color: #445162;
+        height: 325px;
+        width: 100%;
+
+}
+
+
+ul{
+    list-style: none;
+}
+ul > li{
+    padding-left: 20px;
+    position: relative;
+    margin: 10px;
+    font-family: Arial;
+	font-size: 20px;
+}
+
+ul > li:before{
+    content: '✔';
+    position: absolute; top: 0; left: 0;
+    color: white;
+}
+
+.logotext img {
+	float: right;
+	padding: 0 50px 50px 50px;
+}
+
+.logotext h1 {
+	font-family: Arial, sans-serif;
+	font-size: 50px;
+    margin-bottom: 50px;
+ }
+
+ .about {
+    background-color: #ffffff;
+        height: 325px;
+        width: 100%;
+ }
+
+ .logotext1 img {
+    float: right;
+    padding: 0 50px 50px 50px;
+}
+
+
+.logotext1 h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin: 50px 0 0 50px;
+    color: #445161;
+ }
+
+ .about p {
+    margin: 30px 100px 0 50px;
+    font-family: Arial;
+    font-size: 16px;
+ }
+
+ .digniti {
+     background-color: #f5f5f5;
+        height: 420px;
+        width: 100%; 
+ }
+
+.digniti h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: #445161;
+}
+
+ .digniti img {
+    width: 36px;
+    height: 36px;
+    margin: 0 0 40px 10px;
+ }
+
+ .plus {
+    margin: 30px 50px 50px 50px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #333333;
+ }
+ .skrinshot {
+       background-color: #ffffff;
+        height: 245px;
+        width: 100%;
+ }
+
+.skrinshot h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: #445161;
+} 
+
+.description_all {
+    height: 245px;
+    width: 100%;
+    display:flex;
+}
+
+.description_one img {
+    width: 200px;
+    height: 150px;
+    margin: 30px 15px 25px 50px;
+    float: left;
+}
+
+.description_two img {
+    width: 200px;
+    height: 150px;
+    margin: 30px 15px 25px 50px;
+    float: left;
+}
+.text_one {
+    margin: 30px 15px 25px 50px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #333333;
+
+}
+
+.text_one h1{
+  font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #445161;  
+}
+
+.text_two {
+    margin: 30px 15px 25px 50px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #333333;
+
+}
+
+.text_two h1{
+  font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #445161;  
+}
+
+.reviews {
+     background-color: #f5f5f5;
+        height: 420px;
+        width: 100%; 
+        
+ }
+
+ .reviews h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: #445161;
+ }
+
+ .reviews_all {
+    height: 120px;
+    width: 100%;
+    display:flex;
+ }
+
+ .reviews_all img{
+    border-radius: 50%;
+    width: 77px;
+    height:77px;
+    margin-top: 30px;
+    margin-left: 30px;
+ }
+
+ .coment{ 
+   position: relative;
+    background: #ebebeb;
+    width: 100%;
+    height: 73px;
+    margin: 15px 20px 15px 30px;
+    padding: 15px;
+ 
+  }
+
+  .reviews_one {
+    
+    font-family: Arial;
+    font-size: 16px;
+    color: #333333;
+  }
+
+  .reviews_two {
+   
+    font-family: Arial;
+    font-size: 16px;
+    color: #333333;
+  }
+
+  .coment:after, before {
+ right: 100%;
+ border: solid transparent;
+ content: " ";
+ height: 0;
+ width:0;
+ position: absolute;
+ pointer-events: none;
+}
+
+.coment:after {
+ border-color: rgba(255, 255, 255, 0);
+ border-right-color: #ebebeb;
+ border-width: 18px;
+ top: 25%;
+ margin-top: -18px;
+}
+
+.coment:before {
+ border-color: rgba(125, 145, 133, 0);
+ border-right-color: #ebebeb;
+ border-width: 19px;
+ top: 50%;
+ margin-top: -19px;
+}
+
+
+.buy_it {
+    background-color: #ffffff;
+        height: 660px;
+        width: 100%;
+}
+
+.buy_it {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: #445161;
+}
