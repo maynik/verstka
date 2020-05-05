@@ -274,14 +274,14 @@ ul > li:before{
   width: auto;
   flex: 0 0 300px;
   background-color: #445162;
-  margin-bottom: 50px;
+  margin-bottom: 75px;
 }
 
 .table1_2 {
     height: 410px;
     width: 300px;
     background-color: #445162;
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }
 
 .table1_3 {
@@ -289,7 +289,7 @@ ul > li:before{
   width: 300px; 
   background-color: #445162;
   margin-left: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 75px;
   
 }
 
@@ -356,6 +356,8 @@ ul > li:before{
 .contacts h1 {
      font-family: Arial, sans-serif;
     font-size: 30px;
+    margin-top: 30px;
+    padding-top: 30px;
     margin-bottom: 25px;
     text-align: center;
     color: white;
@@ -425,7 +427,7 @@ ul > li:before{
 
 .end p {
 font-family: Arial, sans-serif;
-    font-size: 15px;
+    font-size: 13px;
     padding-top: 10px;
     text-align: center;
     color: #bbbec3; 
