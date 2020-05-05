@@ -13,7 +13,7 @@
 .header {
         background-color: #445162;
         height: 325px;
-        width: 100%;
+        width: 1280px;
 
 }
 
@@ -49,7 +49,7 @@ ul > li:before{
  .about {
     background-color: #ffffff;
         height: 325px;
-        width: 100%;
+        width: 1280px;
  }
 
  .logotext1 img {
@@ -74,7 +74,7 @@ ul > li:before{
  .digniti {
      background-color: #f5f5f5;
         height: 420px;
-        width: 100%; 
+        width: 1280px; 
  }
 
 .digniti h1 {
@@ -100,7 +100,7 @@ ul > li:before{
  .skrinshot {
        background-color: #ffffff;
         height: 245px;
-        width: 100%;
+        width: 1280px;
  }
 
 .skrinshot h1 {
@@ -113,7 +113,7 @@ ul > li:before{
 
 .description_all {
     height: 245px;
-    width: 100%;
+    width: 1280px;
     display:flex;
 }
 
@@ -163,7 +163,7 @@ ul > li:before{
 .reviews {
      background-color: #f5f5f5;
         height: 420px;
-        width: 100%; 
+        width: 1280px; 
         
  }
 
@@ -177,7 +177,7 @@ ul > li:before{
 
  .reviews_all {
     height: 120px;
-    width: 100%;
+    width: 1280px;
     display:flex;
  }
 
@@ -192,7 +192,7 @@ ul > li:before{
  .coment{ 
    position: relative;
     background: #ebebeb;
-    width: 100%;
+    width: 1280px;
     height: 73px;
     margin: 15px 20px 15px 30px;
     padding: 15px;
@@ -243,7 +243,7 @@ ul > li:before{
 .buy_it {
     background-color: #ffffff;
         height: 660px;
-        width: 100%;
+        width: 1280px;
 }
 
 .buy_it h1 {
@@ -260,7 +260,7 @@ ul > li:before{
     align-items: flex-end;
     align-content: space-around;
     justify-content: center;
-    width: 100%;
+    width: 1280px;
     max-width: 1280px;
     height: auto;
     margin-top: 50px;
@@ -350,7 +350,7 @@ ul > li:before{
 .contacts {
         background-color: #445162;
         height: 510px;
-        width: 100%;
+        width: 1280px;
 }
 
 .contacts h1 {
@@ -376,14 +376,14 @@ ul > li:before{
 .send input[type="text"]{
   width: 500px;
   height: 40px;
-  margin: 0px 40px 20px 600px;
+  margin: 0px 40px 20px 20%;
 
 }
 
 .send textarea {
   width: 500px;
   height: 200px;
-  margin: 0px 40px 20px 600px;
+  margin: 0px 40px 20px 20%;
 }
 
 .send_contact input[type="text"] {
@@ -398,7 +398,7 @@ ul > li:before{
   background-color: white;
   color: #445162;
   border-radius: 5px;
-  margin: 0px 0px 50px 800px;
+  margin: 0px 0px 50px 30%;
   width: 140px;
   height: 40px;
   font-family: Arial, sans-serif;
@@ -419,7 +419,7 @@ ul > li:before{
 {
     background-color: red;
     height: 30px;
-    width: 100%;
+    width: 1280px;
 
 }
 
